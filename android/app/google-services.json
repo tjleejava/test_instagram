@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "158249674468",
+    "project_id": "instagram-9d656",
+    "storage_bucket": "instagram-9d656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158249674468:android:1cc4532864ae606eeaeef1",
+        "android_client_info": {
+          "package_name": "com.tjlee.testagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158249674468-al55md8bgllgajs8md53g5g770u4o817.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPWY4I7SiJeIGh9MSDzb4NiHTqEvB3Vjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158249674468-al55md8bgllgajs8md53g5g770u4o817.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158249674468-n8i4kqvrr9jdkleig21c9icukbqfd9j3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tjlee.testagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
